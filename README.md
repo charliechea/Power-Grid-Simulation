@@ -1,21 +1,21 @@
-# ⚡ Power Grid Simulation
+#  Power Grid Simulation
 
 A beginner-level power systems engineering project built using Python.  
 Simulates basic grid behavior and performs simple power flow calculations.
 
-## 📌 Features
+##  Features
 - Node-based power flow setup
 - Load and generation balancing
 - Grid behavior modeling
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Matplotlib
 
-## 📂 Files
+##  Files
 - `grid_simulation.py`: main simulation script
 
-## 🚀 Goals
+##  Goals
 This project was created as part of my electrical engineering learning journey.  
 It demonstrates my interest in power systems and grid modeling.
 
